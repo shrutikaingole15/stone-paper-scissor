@@ -1,0 +1,37 @@
+.container {
+  width: 90%;
+  margin: auto;
+  text-align: center;
+}
+.hand {
+  float: left;
+  width: 50%;
+}
+
+.dice {
+  text-align: center;
+  display: inline-block;
+}
+body{
+  background-color: #393e46;
+  text-align: center;
+}
+h1 {
+  margin: 30px;
+  font-family: 'Montserrat', sans-serif;
+  text-shadow: 5px 0 #232931;
+  font-size: 7rem;
+  color: #00adb5;
+}
+h3 {
+  color: #eeeeee;
+  font-family: 'Indie Flower', cursive;
+}
+p {
+  font-size: 2rem;
+  color: #aad8d3;
+  font-family: 'Indie Flower', cursive;
+}
+img {
+  width: 50%;
+}
